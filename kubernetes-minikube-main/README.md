@@ -1,4 +1,4 @@
-![KOUIDRI Yassine](https://drive.google.com/drive/folders/0ABLztyO3B-NXUk9PVA)
+![KOUIDRI Yassine]https://drive.google.com/drive/folders/0ABLztyO3B-NXUk9PVA
 
 Capture d'écran : https://drive.google.com/file/d/1sQbhwLOiV_2S23xuPXd0YCfrfcEgZ_yH/view?usp=drive_link
 # kubernetes-minikube
