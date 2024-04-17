@@ -1,4 +1,5 @@
-![KOUIDRI Yassine](https://drive.google.com/file/d/1sQbhwLOiV_2S23xuPXd0YCfrfcEgZ_yH/view?usp=drive_link)
+
+![Capture d’écran (198)](https://github.com/KouidriYassine/Programmation-distribu-/assets/165998102/b2d51a9e-fe69-4e4b-bed6-d45ec5aa7199)
 
 Capture d'écran : https://drive.google.com/file/d/1sQbhwLOiV_2S23xuPXd0YCfrfcEgZ_yH/view?usp=drive_link
 # kubernetes-minikube
